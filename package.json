@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/jest": "*",
+    "@types/supertest": "*",
+    "jest": "*",
+    "mongodb-memory-server": "*",
+    "supertest": "*",
+    "ts-jest": "*"
+  }
+}
